@@ -1,4 +1,4 @@
-//Grasshopper - Grade book
+//Grasshopper - Grade book 
 function getGrade (s1, s2, s3) {
   let r = (s1+s2+s3)/3;
   if(r>=90) return 'A';
