@@ -1,4 +1,4 @@
-//Difference of Volumes of Cuboids
+//Difference of Volumes of Cuboids 
 function findDifference(a, b) {
   a = a.reduce((ac,va)=>ac*va);
   b = b.reduce((ac,va)=>ac*va);
