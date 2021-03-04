@@ -1,4 +1,4 @@
-//Stringy Strings
+//Stringy Strings 
 function stringy(size) {
   let result = [];
   for(let i=0; i<size;i++){
