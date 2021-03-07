@@ -1,4 +1,4 @@
-//Fake Binary
+//Fake Binary 
 function fakeBin(x){
   return x.split('').map( int =>{
     if(int < 5){
