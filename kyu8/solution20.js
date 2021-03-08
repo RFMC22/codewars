@@ -1,8 +1,5 @@
-//You're a square!
-var isSquare = function(n){
-  if(Math.sqrt(n) % 1 == 0){
-    return true;
-  }else{
-    return false;
-  }
-}
+//Grasshopper - Variable Assignment Debug
+var a = "dev"
+var b = "Lab"
+
+var name = a + b;
