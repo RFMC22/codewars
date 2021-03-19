@@ -1,4 +1,4 @@
-//Sleigh Authentication
+//Sleigh Authentication 
 function Sleigh() {}
 
 Sleigh.prototype.authenticate = function(name, password) {
