@@ -1,4 +1,4 @@
-//Transportation on vacation
+//Transportation on vacation 
 function rentalCarCost(d) {
   let total;
   let cost = 40;
