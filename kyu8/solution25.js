@@ -1,4 +1,4 @@
-//Century From Year
+//Century From Year 
 function century(year) {
   return Math.ceil(year/100);
 }
